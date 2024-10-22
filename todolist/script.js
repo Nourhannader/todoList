@@ -1,9 +1,4 @@
-/*
-  [1] Use Sweet Alert If Input Is Empty
-  [2] Check If Task Is Exist
-  [3] Create Delete All Tasks Button
-  [4] Create Finish All Tasks Button
-  [5] Add To Tasks To The Local Storage */
+
 
 
 // Setting Up Variables
